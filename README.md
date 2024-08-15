@@ -7,7 +7,7 @@ Step 1
 Install the AutoBuild Marlin extension in VSCODE.
 
 Step 2
-Open Marlin in Vs Code 
+Open "MarlinUpdate-2.1.2-2.4 (2).zip"  in Vs Code 
 
 Step 3
 Open AutoBuild Marlin extension and Build the project 
