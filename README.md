@@ -19,6 +19,7 @@ Step 5
 On the AutoBuild Marlin extension,  Upload the project. This would flash the board and upload it with the new firmware
 
 SLICER SETTINGS 
+
 Step 1
 Design the object to printed in a desirable CAD modelling software such as SOLIDWORKS or FUSION 360. Export as an stl file and open in an appropriate slicer such as Cura ULtimaker slicer.
 
